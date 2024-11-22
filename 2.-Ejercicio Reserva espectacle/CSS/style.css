@@ -1,0 +1,81 @@
+*{margin: 0;  
+    padding: 0;
+    border-collapse: collapse;
+}
+
+.logo{
+    display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 240px;
+    height: 180px;          
+}
+
+main{width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+h1,h2,h4{color: red;}
+    
+
+.tabla1 td{ background-color: gray;
+            margin: 10px;
+            margin: 10px;
+            width: 120px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        
+}
+
+.tabla2 td{background-color: gray;
+    margin: 10px;
+    margin: 10px;
+    width: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+
+#telefono{background-color:white;}
+
+.tabla4{
+    width: 400px;
+    height: 100px;
+    margin-bottom: 40px;
+
+
+}
+
+.imagenqr{
+    float: left;
+}
+
+
+
+.NUMEROS td{padding-left: 50px;
+    margin-bottom: 40px;
+
+
+}
+
+
+.tabla5{
+    width: 520px;
+    height: 100px;  
+    margin-bottom: 40px;
+
+
+}
+
+.final{
+    text-align: right;
+}
+
+.t5-col1{
+    color: red ;
+    font-weight: bolder;
+}
