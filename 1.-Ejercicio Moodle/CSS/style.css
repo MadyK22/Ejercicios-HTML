@@ -1,0 +1,47 @@
+.imagen1 {
+  width: 400px;
+  height: 400px;
+}
+
+.imagen2 {
+  width: 400px;
+  height: 400px;
+}
+
+.imagen3 {
+  width: 400px;
+  height: 400px;
+}
+
+.imagen4 {
+  float: right;
+  width: 145px;
+  height: 118px;
+}
+
+header { 
+  border: 10px dashed black;
+  padding-bottom: 5px;
+}
+
+.Seccion1 {
+  background-color: rgb(169, 191, 214);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.Seccion2 {
+  background-color: rgb(60, 218, 230);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.Seccion3 {
+  background-color: rgb(194, 12, 12);
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
