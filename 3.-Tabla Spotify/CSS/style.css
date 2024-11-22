@@ -1,0 +1,59 @@
+
+body{
+    background-color:rgb(26, 24, 24);
+}
+
+
+
+table{
+    border-collapse: collapse;
+}
+
+th{color: white;
+    text-align: left;
+
+}
+td{ color: white;}
+
+.cabecera{
+    background-color: green;
+}
+
+.col1{
+    width: 50px;
+    height: 30px;
+}
+
+.col2{
+    width: 400px;
+    height: 30px;
+}
+
+img{
+    display: block;
+    float: left;
+    margin-right: 20px;
+
+}
+
+span{
+    display: block;
+}
+
+.col3{
+    width: 400px;
+    height: 30px;
+}
+
+.col4{
+    width:400px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
