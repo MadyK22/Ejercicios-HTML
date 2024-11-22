@@ -1,0 +1,92 @@
+table{
+    border-collapse: collapse;
+}
+
+h1{
+    padding-left:900px;
+}
+
+th{
+    text-align: left;
+}
+
+
+
+.principio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cabecera{
+    margin-right: 0px;
+}
+
+img{display: block;
+    float: left;
+    height: 50px;
+    width: 50px;
+
+}
+
+span{
+    display: block;
+}
+
+hr{
+    color: red;
+
+}
+
+tr:nth-child(odd){
+    background-color: rgb(216, 213, 213);
+}
+
+
+.col0{
+    width: 500px;
+    height: 40px;
+
+}
+.col1{
+    width: 400px;
+    height: 40px;
+}
+
+.col2{
+    width: 400px;
+    height: 40px;
+}
+
+
+
+.col3{
+    width: 400px;
+    height: 40px;
+}
+
+.col4{
+    width:400px;
+    height: 40px;
+}
+
+.col5{
+    width: 400px;
+    height: 40px;
+}
+
+.col6{
+    width: 400px;
+    height: 40px;
+}
+
+
+.col7{
+    width: 400px;
+    height: 40px;
+}
+
+.col8{
+    width:400px;
+    height: 40px;
+}
