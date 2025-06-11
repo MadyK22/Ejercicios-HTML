@@ -1,0 +1,45 @@
+div{
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  text-align: center;
+  position: absolute;
+  top: 25px;
+  left: 300px;
+  width: 900px;
+  height: 600px;
+  background-color: chocolate;
+  color: black;
+  border: 8px solid black;
+
+}
+
+.cadena{
+    width: 330px;
+    height: 40px;
+    color:black;
+    background-color: rgb(24, 237, 0);
+    border: 6px solid black;
+}
+
+.boton{
+    border: 6px solid black;
+    width: 100px;
+
+}
+
+.resultado{
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  text-align: center;
+  position: absolute;
+  left: 350px;
+  width:200px;
+  height: 40px;
+  background-color: rgb(24, 237, 0);
+  color: black;
+  border: 8px solid black;
+  background-repeat: no-repeat;
+
+}
