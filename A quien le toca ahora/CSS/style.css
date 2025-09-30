@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+}
+body{
+  background-image: url(../img/fondo.jpg);
+}
+
+.titulo{
+  text-align: center;
+  color: green;
+  text-shadow: 8px 8px 16px rgb(187, 190, 35);
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  margin-top: 30px;
+  
+}
+.tabla1{
+  width: 430px;
+  height: 550px;
+  margin: 20px auto;
+  background-color:rgb(12, 173, 12);
+  padding-top: 10px;
+  border-radius: 15px;
+   font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+}
+
+.llistat  {
+  background-color: white;
+  color: black;
+  width: 290px;
+  height: 43  0px;
+  margin-left: 70px;
+  margin-top: 40px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+
+}
+
+.titulo1{
+  text-align: center;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  padding-top: 7px;
+  
+}
+
+.tabla2{
+  width: 300px;
+  height: 220px;
+  margin-left: 230px;
+  margin-top: -259px;
+  background-color:rgb(3, 255, 3);
+  padding-top: 10px;
+  border-radius: 15px;
+   font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+}
+
+.titulo2{
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  text-align: center;
+}
+
+.ara{
+  background-color: white;
+  width: 250px;
+  height: 55px;
+  margin-left: 23px;
+  margin-top: 30px;
+}
+
+.tabla3{
+  height: 300px;
+  width: 320px;
+  border-radius: 90%;
+  margin-left: 220px;
+  margin-top: -580px;
+  background-color:rgb(7, 71, 7);
+  padding-top: 10px;
+   font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  
+}
+
+.titulo3{
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.nombre{
+  text-align: left;
+  margin-left: 53px;
+  height: 40px;
+  width: 220px;
+  margin-top: 20px;
+  color: rgb(0, 0, 0);
+  border-style: solid ;
+ 
+}
+
+.boton1{
+  text-align: center ;
+  width: 100px;
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 115px;
+  background-color: rgb(22, 140, 187);
+  color:  white;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  border-radius: 10px;
+}
+
+.boton2{
+   text-align: center ;
+  width: 100px;
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 97px;
+  background-color: rgb(22, 140, 187);
+  color:  white;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;    
+  font-style: normal;
+  border-radius: 10px;
+}
