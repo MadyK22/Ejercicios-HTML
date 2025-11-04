@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap" rel="stylesheet">
+    <title>AHORCADO</title>
+</head>
+
+
+<body onload="Inicializar()">
+    <header>
+        <h1>EL JUEGO DEL AHORCADO</h1>
+    </header>
+    <div class="tabla1">
+        <img class="imagen0" id="imagen" src="IMG/A0.png" alt=""> 
+        <p class="ptabla1" id="palabra"> </p>
+        <input class="letra" id="letra"> </input> <br>
+        <input onclick="Enviar()" type="button" class="boton" id="boton" value="ENVIAR"> <br> <br>
+        <p class="psecreta" id="psecreta"></p>
+
+    </div>
+
+    <div class="tabla2">
+        <h1>LISTADO DE LETRAS</h1>
+        <p id="lista_letras" class="listado"></p>
+
+
+    </div>
+
+    <div class="victoria" id="ganador">
+        <p id="win">¡HAS GANADO!</p> <br>
+        <button onclick="Inicializar()" id="boton" type="button">VOLVER A JUGAR</button>
+
+        <p class="numintentos" id="numintentos"></p>
+    
+        
+
+    </div>
+
+    <div class="derrota" id="perdedor">
+        <p id="lose">¡HAS PERDIDO!</p>
+        <button onclick="Inicializar()" id="boton" type="button">VOLVER A JUGAR</button>
+
+    </div>
+
+
+    <script src="Js/ejercicioahorcado2.js"></script>
+    <!-- <script src="Js/ejercicioahorcado.js"></script> -->
+
+
+</body>
+
+</html>
